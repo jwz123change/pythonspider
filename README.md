@@ -1,0 +1,2 @@
+# pythonspider
+python学习，学习慕课网scrapy爬取豆瓣top250保存到mysql数据库中 
